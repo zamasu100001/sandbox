@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-03 00:48 IR
+- 📱 [app-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/app-arm64-v8a-release.apk) `43.4MB`
+
+- 📱 [app-armeabi-v7a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/app-armeabi-v7a-release.apk) `34.4MB`
+
+---
+
+
 ### 📅 2026-05-02 17:45 IR
 - 📱 [VaydnsVpn-v1.8.0-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/VaydnsVpn-v1.8.0-arm64-v8a.apk) `10.4MB`
 
