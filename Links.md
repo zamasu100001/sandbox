@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 16:34 IR
+- 📱 [v2rayNG_2.0.18_universal.apk](https://github.com/zamasu100001/sandbox/raw/main/dl/v2rayNG_2.0.18_universal.apk) `61.7MB`
+
+---
+
+
 ### 📅 2026-05-14 13:24 IR
 - 🗜️ [v2rayN-windows-64.7z.001](https://github.com/zamasu100001/sandbox/raw/main/dl/v2rayN-windows-64.7z.001) `95.0MB`
 
